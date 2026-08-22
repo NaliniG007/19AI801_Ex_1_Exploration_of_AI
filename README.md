@@ -19,6 +19,7 @@ User Voice → Microphone → Speech Recognition → NLP → Intent Detection �
 ### SAMPLE IMAGE – AI-ENABLED SMART SPEAKER
  
   
+<img width="532" height="166" alt="image" src="https://github.com/user-attachments/assets/a2478537-5c6d-45df-8622-740c5e4e97c3" />
 
 
 ### AI-ENABLED SMART SPEAKERS
