@@ -20,6 +20,10 @@ User Voice → Microphone → Speech Recognition → NLP → Intent Detection �
  
   
 <img width="532" height="166" alt="image" src="https://github.com/user-attachments/assets/a2478537-5c6d-45df-8622-740c5e4e97c3" />
+<img width="530" height="352" alt="image" src="https://github.com/user-attachments/assets/9e0b0534-1335-40c9-a395-e77cc9db5efc" />
+<img width="605" height="369" alt="image" src="https://github.com/user-attachments/assets/5d4db58e-b278-44a5-9e73-05c0c6b34862" />
+
+
 
 
 ### AI-ENABLED SMART SPEAKERS
@@ -28,7 +32,7 @@ Examples:
 •	Google Nest – Google Assistant 
 •	Apple HomePod – Siri 
 •	Samsung SmartThings-compatible speakers
-CHARACTERISTICS OF AI-ENABLED SMART SPEAKERS
+###  CHARACTERISTICS OF AI-ENABLED SMART SPEAKERS
 1.	Voice Interaction :Communicates with users through voice commands. 
 2.	Speech Recognition :Converts spoken words into text. 
 3.	Natural Language Understanding :Understands the meaning of user commands. 
@@ -39,7 +43,7 @@ CHARACTERISTICS OF AI-ENABLED SMART SPEAKERS
 8.	Automation: Performs tasks such as setting alarms, reminders, timers, and schedules. 
 9.	Multilingual Support : Understands and responds in multiple languages. 
 10.	Continuous Learning :AI models improve their performance using data and user feedback.
-RELATED AI TOOLS / TECHNOLOGIES
+### RELATED AI TOOLS / TECHNOLOGIES
 •	Machine Learning (ML) :Learns patterns from user interactions. 
 •	Deep Learning (DL) :Used for speech and language understanding. 
 •	Natural Language Processing (NLP): Understands human language. 
@@ -48,5 +52,5 @@ RELATED AI TOOLS / TECHNOLOGIES
 •	Text-to-Speech (TTS) :Converts generated text into natural-sounding speech. 
 •	Generative AI: Can generate more natural and context-aware responses. 
 •	Cloud AI Services:Provide large-scale speech, language and knowledge-processing capabilities. 
-CONCLUSION
+## CONCLUSION
 AI-enabled smart speakers demonstrate how Artificial Intelligence can be used in everyday life. By combining speech recognition, NLP, machine learning, and text-to-speech technologies, smart speakers can understand voice commands and provide intelligent responses. They improve convenience, accessibility, and automation in homes and other environments.
